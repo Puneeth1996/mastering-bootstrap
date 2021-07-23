@@ -1,6 +1,8 @@
 23 July 2021, Friday 5.10pm
 
+This repository consists of my learning with bootstrap library 
 
+All the work and learning projects will be split up into branches 
 
 
 
